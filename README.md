@@ -1,0 +1,1 @@
+This simple force-directed graph shows groups with dynamically generated focus points. The force layer is also dynamic to fill the entire parent container.
