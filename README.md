@@ -1,1 +1,10 @@
-This simple force-directed graph shows groups with dynamically generated focus points. The force layer is also dynamic to fill the entire parent container.
+This force directed link chart has (will have) the following features:
+
+ * [x] SVG & force layer fills the parent container
+ * [ ] Nodes confined to container
+ * [ ] Zoomable
+ * [ ] Resize to fill screen
+ * [ ] Context menu
+ * [ ] Hover popup
+ * [ ] Node icons
+ * [ ] Sticky nodes

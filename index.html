@@ -48,7 +48,7 @@ svg {
       .attr("width", function(){ return $(this).outerWidth(); })
       .attr("height", function(){ return $(this).outerHeight(); })
 
-  d3.json("data2.json", function(error, graph) {
+  d3.json("data.json", function(error, graph) {
     if (error) throw error;
 
     nodes = graph.nodes
